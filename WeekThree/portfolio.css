@@ -1,0 +1,56 @@
+body {
+    font-size:medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#F2EFE7;
+    color: #2973B2;
+}
+h1 {
+    text-align: center;
+    font-size: 350%;
+}
+h2 {
+    color:#2973B2;
+    font-weight: 400;
+}
+#aboutme {
+    border-color:#2973B2;
+    border-radius: 50px;
+    border-style: solid;
+    background-color:#9ACBD0;
+    padding: 20px;
+    margin: 35px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 5px #2973B2;
+}
+#contact {
+    text-align: center;
+    border-color:#48A6A7;
+    border-style: solid;
+    margin: 0px;
+    padding: 20px;
+    background-color:#9ACBD0;
+    
+}
+#skills {
+    border-color:#2973B2;
+    border-radius: 50px;
+    border-style: solid;
+    background-color:#9ACBD0;
+    padding: 20px;
+    margin: 35px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 5px #2973B2;
+}
+#projects {
+    border-color:#2973B2;
+    border-radius: 50px;
+    border-style: solid;
+    background-color:#9ACBD0;
+    padding: 20px;
+    margin: 35px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 5px #2973B2;
+}
+a:hover {
+    color: #2973B2;
+}

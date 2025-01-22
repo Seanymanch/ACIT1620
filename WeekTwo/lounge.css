@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+p {
+    color: maroon;
+    font-family: sans-serif;
+}
+h1, h2
+{ font-family: sans-serif;
+    color: grey;
+}
+h1 {
+    border-bottom: 1px solid lightcoral;
+}
+em {
+    font-family: serif;
+}
+p.greentea {
+color: green
+}
+p.bluetea {
+    color: blue
+}
+p.redtea {
+    color: red
+}
+p.lightbluetea {
+    color: lightblue
+}
+*/* {
+    margin: 0;
+    padding: 0;
+}*/
+#unique {
+    font-size: 20px;
+    color: red
+}
+div p {
+    color: purple
+}
+ul > ul > li {
+    color: orange
+}
+h1 + p {
+    color: teal
+}
+
+input[type="text"] {
+    border: 2px solid blue;
+}
+a:hover {
+    color: red
+}
+body {
+    font-weight: bold;
+}
