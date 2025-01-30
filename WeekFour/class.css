@@ -1,0 +1,27 @@
+
+
+/*Flex-container*/
+.flex-container {
+    display: flex; /*This will activate the flex box */
+    flex-direction: row; /*Items are placed in a row */
+    justify-content: space-around; /*distributes items with space around*/
+    align-items: center;
+    gap: 20px;
+    border: 2px solid blue;
+    padding: 10px;
+    background-color: yellow;
+
+}
+
+/*flex-items */
+.flex-item {
+    flex: 1; /* each item grows equally*/
+    min-width: 100px;/* minimum width for reponsiveness*/
+    max-width: 200px;
+    text-align: center;
+    border: 1px solid #007bff;
+    padding: 20px;
+    background-color: beige;
+    border-radius: 20px;
+    box-shadow: 10px 20px 20px rgba(0,0,0,0.3);
+}
